@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+encoding//src/dao/newsdao.java=UTF-8
+encoding//src/dao/userdao.java=UTF-8
+encoding//src/servlets/newsservlet.java=UTF-8
+encoding//src/servlets/userservlet.java=UTF-8
